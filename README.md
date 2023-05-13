@@ -1,2 +1,0 @@
-# rubyschool
-learning ruby 
